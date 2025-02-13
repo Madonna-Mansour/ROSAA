@@ -1,0 +1,371 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+span{
+color: green;
+}
+button{
+    background-color: green;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+
+.bink{
+    background-color: pink;
+    padding: 10px;
+}
+.envato{
+    color: white;
+}
+.dropdown-menu{
+    background-color: pink;
+    padding: 10px;
+
+}
+.back{
+    width: 100%;
+    height: 700px;
+    background-image: url(img/im/img26.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+.back h1{
+    font-family: "Eagle Lake", serif;
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+.back button{
+background-color: white;
+width: 280px;
+height: 60px;
+color: black;
+border-radius: 35px;
+}
+.back button:hover{
+  border  : pink 5px solid;
+    }
+.slid2 button{
+color: black;
+background-color: gray;
+width: 280px;
+height: 60px;
+border-radius: 35px;
+}
+.slid2 button:hover{
+    border  : orangered 3px solid;
+background-color: white;
+      }   
+      #rela{
+        position: relative;
+        top: 15px;
+      } 
+      #abs{
+        position: absolute;
+        top: 490px;
+        right: 680px;
+        width: 250px;
+        height: 300px;
+        border-radius: 35px;
+    }
+    .three h3{
+        font-size: 40px;
+        font-family: fantasy;
+        margin-bottom: 20px ;
+    }
+    .three{
+        padding-top: 80px;
+        background-color: rgb(222, 225, 240);
+        margin-bottom: 100px;
+        padding-bottom: 50px;
+    }
+    .textt{
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    .textt h4{
+     color: gray;
+    }
+    .textt h1{
+        font-family: "Eagle Lake", serif;
+
+    }
+    .argee{
+        text-align: center;
+        margin-bottom: 100px;
+        margin-top: 150px;
+
+    }
+    .argee h4{
+     color: gray;
+     margin-top: 20px;
+    }
+    .argee h1{
+        font-family: "Eagle Lake", serif;
+        margin-bottom: 70px;
+    }
+    .argee hr{
+       width: 170px;
+       margin-left: 220px;
+ }
+ .immmg img{
+       border-radius: 150px 250px 0 0;
+ }
+ .backkk{
+    background-image: url(img/im/img41.png);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 25px;
+ }
+ .backkk button{
+    background-color: pink;
+    width: 280px;
+    height: 60px;
+    color: black;
+    border-radius: 35px;
+    margin-top: 30px;
+    }
+    .backkk button:hover{
+      border  : pink 5px solid;
+      background-color: white;
+        }
+        .seven{
+            margin-top: 100px;
+            text-align: center;
+        }
+        .seven h4{
+            margin-top: 10px;
+        }
+    
+        .backImg{
+            background-image: url(img/im/img30.jpg);
+            background-repeat: no-repeat;
+            background-size: contain;
+            height: 500px;
+            margin-top: 100px; 
+            width: 1600px;
+            text-align: center;  
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+       .backImgCenter{
+        display: flex;
+        justify-content: center;
+        
+        }
+  .backImg h5{
+     background-color: rgb(238, 129, 147);
+     color: white;
+     width: 250px;
+  }
+  .backImg h2{
+    color: rgb(238, 129, 147);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .backImg h3{
+  font-family: "Eagle Lake", serif;
+ }
+ .backImg button{
+    background-color: white;
+width: 280px;
+height: 60px;
+color: black;
+border-radius: 35px;
+border: 4px rgb(238, 129, 147) solid;
+   }
+   .backImg button:hover{
+    background-color: rgb(238, 129, 147);
+    color: white;
+    border-radius: 35px;
+   }
+
+.tone{
+    height: 750px;
+    background-image: url(img/im/img31.png);
+    text-align: center;
+    background-color: rgba(222, 225, 240, 0.273);
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    display: flex;
+flex-direction: column;    
+align-items: center;
+margin-top: 170px;
+}  
+.ttow{
+    height: 1050px;
+    background-image: url(img/im/img32.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: white;
+}
+.ttow button{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    color: black;
+    border-radius: 35px;
+    margin-top: 550px;
+    margin-bottom: 50px;
+} 
+.ttow button:hover{
+  border  : pink 5px solid;
+    }
+    .mb{
+        color: white;
+        width: 1200px;
+        margin-top: 50px;
+    }
+
+    .absle{
+        position: absolute;
+        top: 35%;
+
+    }
+    .total{
+        position: relative;
+    }
+    .absle .text-center{
+        height: 600px;
+        background-color: white;
+        margin-right: 20px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 100px 0  100px 0;
+    }
+    #only{
+        margin-top: 100px;
+    }
+    .absle img{
+        height: 70px;
+        width: 70px;
+        margin-bottom: 20px;
+    }
+    .threeeee img{
+        width: 550px;
+        height: 550px;
+    }
+    .threeeee{
+        text-align: center;
+    }
+    .threeeee h4{
+        color: gray;
+        margin-top: 100px;
+    }
+    .threeeee h1{
+        font-size: 75;
+        margin: 20px 0 80px ;
+        font-family: "Eagle Lake", serif;
+    }
+    .threeeee button{
+        background-color: rgb(175, 171, 171);
+        width: 250px;
+        height: 60px;
+        color: black;
+       display: flex;
+       justify-content: center;
+       justify-content: center;
+       align-items: center;
+        border-radius: 35px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    } 
+    .threeeee button:hover{
+        background-color: white;
+      border  : rgb(225, 119, 49) 5px solid;
+        }
+        #uniqe{
+          
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(img/im/img36.jpg);
+        }
+        .buo{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        #re{
+            position: relative;
+        }
+        #ab{
+            position: absolute;
+            top:28%;
+            left:69%;
+            width: 500px;
+            border-radius: 250px 250px 0 0;
+        }
+        .end{
+            background-color: rgb(252, 214, 220);
+            text-align: center;
+            padding-top: 50px;
+        }
+        .end button{
+            background-color: rgb(252, 249, 249);
+            width: 250px;
+            height: 60px;
+            color: black;
+           border-radius: 30px;
+           margin-top: 150px;
+        } 
+        .end button:hover{
+            background-color: rgb(252, 214, 220);
+          border  : rgb(251, 249, 249) 2px solid;
+            }
+      .foote input{
+        height: 60px;
+        border-radius: 30px;
+          border: none;
+          background-color: rgb(214, 207, 207);
+          color: black;
+          padding-left: 20px;
+          width: 400px;
+          
+      }
+      .foote button{
+        background-color: rgb(252, 214, 220);
+        width: 250px;
+        height: 60px;
+        color: black;
+       border-radius: 30px;
+    } 
+    .d{
+        display: flex;
+        justify-content: space-between;
+    }
+    .social img{
+        width: 30px;
+        margin-right: 30px;
+        margin-top: 20px;
+    }
+    .social1{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
