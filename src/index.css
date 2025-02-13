@@ -4,7 +4,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 span{
 color: green;
 }
@@ -16,7 +15,6 @@ button{
     border: none;
     color: white;
 }
-
 .bink{
     background-color: pink;
     padding: 10px;
@@ -27,7 +25,6 @@ button{
 .dropdown-menu{
     background-color: pink;
     padding: 10px;
-
 }
 .back{
     width: 100%;
@@ -38,7 +35,6 @@ button{
     align-items: center;
     justify-content: center;
     color: white;
-
 }
 .back h1{
     font-family: "Eagle Lake", serif;
@@ -70,12 +66,15 @@ background-color: white;
         position: relative;
         top: 15px;
       } 
+      #relate{
+          width: 750px;
+      }
       #abs{
         position: absolute;
-        top: 490px;
-        right: 680px;
-        width: 250px;
-        height: 300px;
+        top: 300px;
+        right: 500px;
+        width: 200px;
+        height: 250px;
         border-radius: 35px;
     }
     .three h3{
@@ -104,7 +103,6 @@ background-color: white;
         text-align: center;
         margin-bottom: 100px;
         margin-top: 150px;
-
     }
     .argee h4{
      color: gray;
@@ -116,7 +114,7 @@ background-color: white;
     }
     .argee hr{
        width: 170px;
-       margin-left: 220px;
+       margin-left: 33%;
  }
  .immmg img{
        border-radius: 150px 250px 0 0;
@@ -143,7 +141,8 @@ background-color: white;
     .backkk button:hover{
       border  : pink 5px solid;
       background-color: white;
-        }
+    }
+    
         .seven{
             margin-top: 100px;
             text-align: center;
@@ -184,11 +183,11 @@ background-color: white;
  }
  .backImg button{
     background-color: white;
-width: 280px;
-height: 60px;
-color: black;
-border-radius: 35px;
-border: 4px rgb(238, 129, 147) solid;
+    width: 280px;
+    height: 60px;
+    color: black;
+    border-radius: 35px;
+    border: 4px rgb(238, 129, 147) solid;
    }
    .backImg button:hover{
     background-color: rgb(238, 129, 147);
@@ -205,20 +204,20 @@ border: 4px rgb(238, 129, 147) solid;
     background-size: contain;
     justify-content: center;
     display: flex;
-flex-direction: column;    
-align-items: center;
-margin-top: 170px;
+    flex-direction: column;    
+    align-items: center;
+    margin-top: 170px;
 }  
 .ttow{
     height: 1050px;
     background-image: url(img/im/img32.jpg);
     background-repeat: no-repeat;
-background-size: cover;
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
 }
 .ttow button{
     background-color: white;
@@ -231,7 +230,7 @@ color: white;
 } 
 .ttow button:hover{
   border  : pink 5px solid;
-    }
+}
     .mb{
         color: white;
         width: 1200px;
@@ -265,20 +264,16 @@ color: white;
         margin-bottom: 20px;
     }
     .threeeee img{
-        width: 550px;
+        width: 400px;
         height: 550px;
     }
+    
     .threeeee{
-        text-align: center;
-    }
-    .threeeee h4{
-        color: gray;
-        margin-top: 100px;
-    }
-    .threeeee h1{
-        font-size: 75;
-        margin: 20px 0 80px ;
-        font-family: "Eagle Lake", serif;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
+       margin-top: 120px;
     }
     .threeeee button{
         background-color: rgb(175, 171, 171);
@@ -298,7 +293,8 @@ color: white;
       border  : rgb(225, 119, 49) 5px solid;
         }
         #uniqe{
-          
+            margin-top: 70px;
+            width: 450px;
             background-repeat: no-repeat;
             background-size: cover;
             background-image: url(img/im/img36.jpg);
@@ -315,8 +311,8 @@ color: white;
         #ab{
             position: absolute;
             top:28%;
-            left:69%;
-            width: 500px;
+            left:62%;
+            width: 400px;
             border-radius: 250px 250px 0 0;
         }
         .end{
@@ -369,3 +365,4 @@ color: white;
         align-items: center;
         flex-direction: column;
     }
+    
