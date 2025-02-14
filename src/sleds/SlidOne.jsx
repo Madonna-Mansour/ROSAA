@@ -2,10 +2,10 @@ import React from 'react'
 import { Container, Col,Row } from 'react-bootstrap'
 const Backg = () => {
   return (
-    <div className='back'>
+    <div className='back p-5'>
       <Container fluid>
         <Row>
-            <Col lg={4}>
+            <Col lg={6}>
                <h1>
                 it's Almost Mom's Day
                </h1>
